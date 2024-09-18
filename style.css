@@ -5,14 +5,15 @@ body {
     align-items: center;
     height: 100vh;
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #3d251e;
     margin: 0;
 }
 
 .container {
-    background-color: #ffffff;
+    background-color: #543b2e;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+    border: 5px solid black;
     padding: 30px;
     width: 100%;
     max-width: 500px;
@@ -29,7 +30,7 @@ body {
 
 h1 {
     font-size: 24px;
-    color: #333;
+    color: #221511;
     margin-bottom: 20px;
 }
 
@@ -46,6 +47,7 @@ label {
     font-weight: bold;
     margin-bottom: 5px;
     color: #555;
+    color: #221511;
 }
 
 input, select {
@@ -69,7 +71,7 @@ input, select {
 
 .resultDevise h2 {
     font-size: 20px;
-    color: #28a745;
+    color: white;
     margin-top: 20px;
     font-weight: bold;
 }
